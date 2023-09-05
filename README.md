@@ -2,8 +2,8 @@ HomeWork PKB
 
 Anggota :  
 
-Andreas             - 13136210
-Krisna Humnasi      - 1313621015
+Andreas Candra      - 1313621044
+Krisna Humanis      - 1313621015
 Aditya Nugraha      - 1313621024      
 Handrian Wibisono R - 1313621036
 
