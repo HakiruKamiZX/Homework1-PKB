@@ -11,14 +11,14 @@ Handrian Wibisono R - 1313621036
 
 1. Install tensorflow, tabulate
 2. import dataset dibawah ini ke CSV (atau download file CSV yang ada) (namakan file : 'leaf_data.csv')
-+------------+-------------+----------+
-| Leaf Width | Leaf Length |  Species |
-+------------+-------------+----------+
+
+| Leaf Width | Leaf Length |  Species  |
+|------------|-------------|-----------|
 |    2.7     |     4.9     | small-leaf|
 |    3.2     |     5.5     | big-leaf  |
 |    2.9     |     5.1     | small-leaf|
 |    3.4     |     6.8     | big-leaf  |
-+------------+-------------+----------+
+
 3.run program di command prompt
 --------------------------------------------
 
